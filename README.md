@@ -10,3 +10,6 @@ Prosjektet eksisterer for å verifisere korrekt Python-oppsett, bruk av virtuelt
 1. Klon repositoryet:
    ```bash
    git clone https://github.com/Munieh/Munieh-oblig1.git
+
+Python 3.12.10
+forfatter Munieh hejo
